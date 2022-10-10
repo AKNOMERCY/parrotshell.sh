@@ -1,9 +1,7 @@
 # parrotshell
 
 With the help of this tool you can change your
-termux shell to look like parrot os shell.
-
-!/storage/emulated/0/Pictures/Screenshots/Screenshot_20221010-124516.jpg
+termux shell to look like parrot os shell
 
 # How to Install Parrot Shell In Termux.
 $ cd $HOME
